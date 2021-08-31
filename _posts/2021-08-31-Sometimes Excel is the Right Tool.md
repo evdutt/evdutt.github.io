@@ -1,5 +1,3 @@
-Sometimes Excel is the Right Tool
-
 In today’s data science environment of Big Data, ML, AI, The Cloud, and all sorts of other hype, Excel sure is looking like a chump. 
 
 However, I would argue that Excel still very much has a place, even in modern, “data-driven” companies. That place is one of rapidly prototyping applications with end-users to provide insights and deliverables that they can begin using today. A teammate and I recently created a novel mathematical framework for logistics capacity that ended up giving leadership the confidence to trim $30 million of bulk capacity from our systems (intentionally vague here for trade secret reasons).
