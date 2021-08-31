@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Blog, Everett's
-description: Thoughts on data science, life, and other things.
+title: Everett Dutton
+description: Thoughts on life, data science, and other things.
 github_username: evdutt
 
 # Email and twitter are optional:
-email:
+email: dutton.ej@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
