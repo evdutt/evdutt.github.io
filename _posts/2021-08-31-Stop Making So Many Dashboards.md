@@ -2,7 +2,7 @@ You don't need that many dashboards. You need a few quality dashboards, with rob
 
 One big draw to using dashboards is that they are new and shiny, and they feel like analytics. Dashboarding gives teams and departments the ability to say they’re doing advanced analytics, without actually doing any. Executives seem to eat this story up, because they keep seeing slick KPI-ridden dashboards in their HBR / Gartner / Sloan reports. And if the other guys have NASA control center-style dashboards, we’ve got to have them too, darn it!
 
-This all becomes an even bigger issue when your company develops a culture of "dashboards are data science". When this happens, attempts to build a team that actually does data science get squashed because "we already have a data science team". Nevermind that the team only does dashboards - in the mind of th executives, analytics and data science are being done because dashboards are being done.
+This all becomes an even bigger issue when your company develops a culture of "dashboards are data science". When this happens, attempts to build a team that actually does data science get squashed because "we already have a data science team". Nevermind that the team only does dashboards - in the mind of the executives, analytics and data science are being done because dashboards are being done.
 
 Dashboards are not analytics in and of themselves. You still need someone to look at the dashboard and find something interesting, and then someone needs to *execute* on that interesting thing.
 
