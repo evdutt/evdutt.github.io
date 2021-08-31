@@ -1,3 +1,3 @@
 # About
 
-![Headshot](./photos/headshot1.jpg "Headshot")
+![Headshot](images/headshot1.jpg "Headshot")
